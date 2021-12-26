@@ -1,5 +1,7 @@
 # Hollywood-Theatrical-Market-Synopsis
 
+[Complete Code & Data will be uploading soon!]
+
 In 2016, the global box office for all films released in each country around the world reached $38.6 billion, up one percent from 2015. The U.S./Canada box office ($11.4 billion) grew two percent, while the international box office ($27.2 billion) in U.S. dollars held steady compared to 2015, despite the increased strength of the U.S. dollar and slowed growth in China.
 
 ![image](https://user-images.githubusercontent.com/62097113/147399300-387bdae7-00f9-4dbd-8b7f-df1a7a321da3.png)
