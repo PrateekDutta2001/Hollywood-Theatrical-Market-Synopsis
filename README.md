@@ -8,6 +8,8 @@ Cinema screens increased by eight percent worldwide in 2016 to nearly 164,000, d
 
 A box office or ticket office is a place where tickets are sold to the public for admission to an event. Patrons may perform the transaction at a countertop, through a hole in a wall or window, or at a wicket. By extension, the term is frequently used, especially in the context of the film industry, as a synonym for the amount of business a particular production, such as a film or theatre show, receives.
 
+![image](https://user-images.githubusercontent.com/62097113/147399336-b979a212-2700-402b-85cf-bbb9c32cc43c.png)
+
 Box office business can be measured in the terms of the number of tickets sold or the amount of money raised by ticket sales (revenue). The projection and analysis of these earnings is very important for the creative industries and often a source of interest for fans. This is predominant in the Hollywood movie industry.
 
 
