@@ -12,6 +12,8 @@ A box office or ticket office is a place where tickets are sold to the public fo
 
 Box office business can be measured in the terms of the number of tickets sold or the amount of money raised by ticket sales (revenue). The projection and analysis of these earnings is very important for the creative industries and often a source of interest for fans. This is predominant in the Hollywood movie industry.
 
+Programming Language:- 
+
 **Other Detail:**
 
 This project has been developed by Prateek Dutta for the purpose of institutional project.
